@@ -171,6 +171,8 @@ body {
     color: #fff;
     font-size: 14px;
     cursor: pointer;
+    display: inline-block;
+    line-height: 40px;
 }
 
 .footer .container {
@@ -705,7 +707,7 @@ body {
 .container3 > div {
     width: 20px;
     height: 20px;
-    background-color: #333;
+    background-color: #fff;
     border-radius: 100%;
     position: absolute;
     -webkit-animation: bouncedelay 1.2s infinite ease-in-out;
